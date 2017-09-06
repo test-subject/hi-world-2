@@ -1,0 +1,17 @@
+{
+  "publishGistUrl": {
+    "name": "blocks",
+    "url": "https://bl.ocks.org/${owner}/${gistId}"
+  },
+  "generated": {
+    "comment": "Objects in the \"generated\" property automatically get generated (user-made changes will be written over).",
+    "primaryFile": "index.html",
+    "tabs": [
+      "index.html",
+      "script.js",
+      ".srcr.json"
+    ],
+    "activeTab": ".srcr.json",
+    "lockPrimaryFile": true
+  }
+}
